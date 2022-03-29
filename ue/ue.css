@@ -1,0 +1,146 @@
+.antet
+{
+	position: relative;
+	margin-top:10px;
+	width:1300px;
+	height:30px;
+	left:51px;
+	background:#192965;
+}
+
+.button1
+{
+	position:absolute;
+	margin-top:-32px;
+	margin-left:1010px;
+	color:white;	
+}
+
+.button1:hover
+{
+	color:white;
+}
+
+.button2
+{
+	position:absolute;
+	margin-top:-32px;
+	margin-left:1130px;
+	color:white;	
+}
+
+.button2:hover
+{
+	color:white;
+}
+
+.button3
+{
+	position:absolute;
+	margin-top:-32px;
+	margin-left:1250px;
+	color:white;
+}
+
+.button3:hover
+{
+	color:white;
+}
+
+
+.titlu
+{
+	font-family: 'Caveat Brush', cursive;
+	margin-top: 20px;
+	color:#192965;
+}
+
+.txt1
+{
+	font-family: 'Crimson Text', serif;
+	padding:10px;
+	text-align: justify;
+	margin-top: 20px;
+	margin-left:51px;
+}
+
+.chenar
+{
+	width:1200px;
+	margin-left: 30px;
+}
+
+.s3
+{
+	color: #f0efef;
+	padding:1px;
+	background-color: #192965;
+	width: 340px;
+	border-radius:20px;
+	position:absolute;
+	margin-left:400px;
+	text-align:center;
+}
+
+.coloana1
+{
+	width:380px;
+	margin-left:51px;
+	margin-top: 90px;
+}
+
+.coloana2
+{
+	width:380px;
+	margin-left:20px;
+	margin-top: 90px;
+}
+
+.coloana3
+{
+	width:380px;
+	margin-left:-14px;
+    margin-top: 90px;
+}
+
+.coloana4
+{
+	width:380px;
+	margin-left:51px;
+        margin-top: 90px;
+}
+
+.coloana5
+{
+	width:380px;
+	margin-left:20px;
+        margin-top: 90px;
+}
+
+.coloana6
+{
+	width:380px;
+	margin-left:-14px;
+        margin-top: 90px;
+}
+
+.text
+{
+	text-align:justify;
+	font-family: 'Crimson Text', serif;
+	color:black;
+	font-style:bold;
+	margin-top:10px;
+}
+
+.istorie
+{
+	width:600px;
+	margin-left:-24px;
+}
+
+
+.mijloc{
+	margin: auto;
+}
+

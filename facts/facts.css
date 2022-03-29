@@ -1,0 +1,264 @@
+.antet
+{
+	position: relative;
+	margin-top:50px;
+	width: 1428px;
+	height:30px;
+	left:45px;
+	background:#192965;
+}
+
+.button1
+{
+	position:absolute;
+	margin-top:-32px;
+	margin-left:1105px;
+	color:white;	
+}
+
+.button1:hover
+{
+	color:white;
+}
+
+.button2
+{
+	position:absolute;
+	margin-top:-32px;
+	margin-left:1235px;
+	color:white;	
+}
+
+.button2:hover
+{
+	color:white;
+}
+
+.button3
+{
+	position:absolute;
+	margin-top:-32px;
+	margin-left:1365px;
+	color:white;
+}
+
+.button3:hover
+{
+	color:white;
+}
+
+.stanga
+{
+	float:left;
+	position: relative;
+	margin-top:50px;
+	width:250px;
+	height:580px;
+	left:45px;
+	background:#192965;
+}
+
+.stanga1
+{
+	float:left;
+	position: relative;
+	width:250px;
+	height:580px;
+	left:45px;
+	margin-top:50px;
+	background:#192965;
+}
+
+.stanga2
+{
+	float:left;
+	position: relative;
+	width:250px;
+	height:580px;
+	left:45px;
+	margin-top:50px;
+	background:#192965;
+}
+
+.stanga3
+{
+	float:left;
+	position: relative;
+	width:250px;
+	height:580px;
+	left:45px;
+	margin-top:50px;
+	background:#192965;
+}
+
+.stanga4
+{
+	float:left;
+	position: relative;
+	width:250px;
+	height:580px;
+	left:45px;
+	margin-top:50px;
+	background:#192965;
+}
+
+.stanga5
+{
+	float:left;
+	position: relative;
+	width:250px;
+	height:580px;
+	left:45px;
+	margin-top:50px;
+	background:#192965;
+}
+
+.stanga6
+{
+	float:left;
+	position: relative;
+	width:250px;
+	height:580px;
+	left:45px;
+	margin-top:50px;
+	background:#192965;
+}
+
+.stanga7
+{
+	float:left;
+	position: relative;
+	width:250px;
+	height:580px;
+	left:45px;
+	margin-top:50px;
+	background:#192965;
+}
+
+
+.dreapta
+{
+	float:right;
+	position: relative;
+	margin-top:50px;
+	width:250px;
+	height:580px;
+	right:48px;
+	background:#192965;
+}
+
+.dreapta1
+{
+	float:right;
+	position: relative;
+	margin-top:50px;
+	width:250px;
+	height:580px;
+	right:48px;
+	background:#192965;
+}
+
+.dreapta2
+{
+	float:right;
+	position: relative;
+	margin-top:50px;
+	width:250px;
+	height:580px;
+	right:48px;
+	background:#192965;
+}
+
+.dreapta3
+{
+	float:right;
+	position: relative;
+	margin-top:50px;
+	width:250px;
+	height:580px;
+	right:48px;
+	background:#192965;
+}
+
+.dreapta4
+{
+	float:right;
+	position: relative;
+	margin-top:50px;
+	width:250px;
+	height:580px;
+	right:48px;
+	background:#192965;
+}
+
+.dreapta5
+{
+	float:right;
+	position: relative;
+	margin-top:50px;
+	width:250px;
+	height:580px;
+	right:48px;
+	background:#192965;
+}
+
+.dreapta6
+{
+	float:right;
+	position: relative;
+	margin-top:50px;
+	width:250px;
+	height:580px;
+	right:48px;
+	background:#192965;
+}
+
+.dreapta7
+{
+	float:right;
+	position: relative;
+	margin-top:50px;
+	width:250px;
+	height:580px;
+	right:48px;
+	background:#192965;
+}
+
+.dreapta8
+{
+	float:right;
+	position: relative;
+	margin-top:50px;
+	width:250px;
+	height:580px;
+	right:48px;
+	background:#192965;
+}
+
+.titlu
+{
+	text-align:center;
+	font-family: 'Caveat Brush', cursive;
+	color:#E17909;
+	margin-top:-5px;
+	margin-left:10px;
+}
+
+.text
+{
+	text-align:justify;
+	font-family: 'Crimson Text', serif;
+	color:black;
+	font-style:bold;
+	margin-left: 10%;
+}
+
+.coloana
+{
+	width:600px;
+	margin-left:-100px;
+}
+
+.mijloc{
+	margins: auto;
+}

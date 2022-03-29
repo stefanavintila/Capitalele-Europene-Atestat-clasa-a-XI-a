@@ -1,0 +1,127 @@
+.antet
+{
+	position: relative;
+	top:25px;
+	width:1170px;
+	height:30px;
+	left:15px;
+	background:#161063;
+}
+
+.button1
+{
+	position:absolute;
+	margin-top:-6px;
+	margin-left:910px;
+	color:white;	
+}
+
+.button1:hover
+{
+	color:white;
+}
+
+.button2
+{
+	position:absolute;
+	margin-top:-6px;
+	margin-left:990px;
+	color:white;	
+}
+
+.button2:hover
+{
+	color:white;
+}
+
+.button3
+{
+	position:absolute;
+	margin-top:-6px;
+	margin-left:1080px;
+	color:white;
+}
+
+.button3:hover
+{
+	color:white;
+}
+
+.chenar
+{
+	width: 1200px;
+	margin: auto;
+}
+
+.intro
+{
+	height:400px;
+}
+
+.bv
+{
+	font-family: 'Caveat Brush', cursive;
+	color: #E17909;
+}
+
+.introducere
+{
+	text-align:left;
+	padding:30;
+	font-family: 'PT Sans', sans-serif;
+}
+
+.img
+{
+	margin-top:70px;
+	margin-left:20px;
+}
+    
+.stanga
+{
+	float:left;
+	position: relative;
+	width:300px;
+	height:300px;
+	left:30px;
+	background:#192965;
+}
+
+.mijloc
+{
+	width:300px;
+	height:300px;
+	margin-left:450px;
+}
+
+
+.dreapta
+{
+	float:right;
+	position: relative;
+	width:300px;
+	height:300px;
+	right:-1070px;
+	background:#192965;
+	margin-top:-300px;
+}
+	
+.dreapta1
+{
+	float:right;
+	position: relative;
+	width:300px;
+	height:300px;
+	right:-1162px;
+	background:#192965;
+	margin-top:-300px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	

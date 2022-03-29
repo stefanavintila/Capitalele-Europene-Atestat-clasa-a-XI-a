@@ -1,0 +1,78 @@
+.body{
+	margin: auto;
+}
+
+
+.antet
+{
+	position: relative;
+	top:30px;
+	width:1170px;
+	height:30px;
+	left:52px;
+	background:#161063;
+}
+
+.button1
+{
+	position:absolute;
+	margin-top:-2px;
+	margin-left:950px;
+	color:white;	
+}
+
+.button1:hover
+{
+	color:white;
+}
+
+.button2
+{
+	position:absolute;
+	margin-top:-2px;
+	margin-left:1030px;
+	color:white;	
+}
+
+.button2:hover
+{
+	color:white;
+}
+
+.button3
+{
+	position:absolute;
+	margin-top:-2px;
+	margin-left:1115px;
+	color:white;
+}
+
+.button3:hover
+{
+	color:white;
+}
+
+.form
+{
+	margin-left:390px;
+	margin-top:40px;
+	border: 5px solid #161063;
+	border-radius: 90px;
+	width:500px;
+	text-align:center;
+	height:400px;
+	color: black;
+	font-family: 'Caveat Brush', cursive;
+}
+
+.text
+{
+	color:#E17909;
+	font-size:50px;
+	font-family: 'Caveat Brush', cursive;
+	margin-left:52px;
+}
+
+.centru{
+	margin: auto;
+}
